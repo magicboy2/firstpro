@@ -133,7 +133,7 @@
     gap:40px;
     height: calc(100vh - 80px );
     padding: 0 0 0 10px;
-
+  }
   .articles-gr div{
     border: 2px solid black;
   }
